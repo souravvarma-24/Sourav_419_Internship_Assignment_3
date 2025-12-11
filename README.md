@@ -174,7 +174,7 @@ This repository demonstrates strong understanding of:
 - Clean, modular Python coding  
 - GitHub project management  
 
-This successfully completes **Internship Task – 3**.
+This completes **Internship Assignment – 3** successfully.
 
 ---
 
