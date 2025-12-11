@@ -178,4 +178,4 @@ This successfully completes **Programming Task – 3**.
 
 ---
 
-## ⭐ If you found this repository helpful, feel free to give it a star!
+## If you found this repository useful, consider showing your support by giving it a ⭐.
