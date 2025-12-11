@@ -1,4 +1,4 @@
-# 🚀 Advanced (EDA) Python Programming – Internship Assignment 2  
+# 🚀 Advance (EDA) Python Programming - Programming Task 2
 ### *Innomatics Research Labs – Data Science Internship*
 
 This repository contains solutions to **six advanced Python programming tasks**, focusing on string processing, array manipulation, bitwise operations, counting techniques, and logical reasoning (LeetCode-style challenges).
@@ -158,7 +158,7 @@ python 6_xor_operation_array.py
 |-------|-------------|
 | **Name** | Sourav Varma Gottumukkala |
 | **Internship** | Data Science Internship – Innomatics Research Labs |
-| **Assignment** | Advanced (EDA) Python Programming – Assignment 2 |
+| **Assignment** | Advance (EDA) Python Programming - Programming Task 2 |
 | **Date** | December 2025 |
 
 ---
