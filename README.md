@@ -178,4 +178,4 @@ This completes **Internship Assignment – 3** successfully.
 
 ---
 
-## If you found this repository useful, consider showing your support by giving it a ⭐.
+## If this work helped you, please show support with a star!⭐.
